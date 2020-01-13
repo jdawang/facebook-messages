@@ -111,6 +111,11 @@ Version: 0.5.2
 Hash: 47b5ab7b81a91620766782f912924611
 Requires: pkgconfig, rlang, vctrs
 
+Package: jsonlite
+Source: CRAN
+Version: 1.6
+Hash: 5f969e213e966135393e3e304abf3f49
+
 Package: labeling
 Source: CRAN
 Version: 0.3
@@ -126,6 +131,12 @@ Source: CRAN
 Version: 0.1.0
 Hash: fd2ceffa778c010fab2df12b2eccd835
 Requires: glue, rlang
+
+Package: lubridate
+Source: CRAN
+Version: 1.7.4
+Hash: 74ce398682545c624d819a6b5c4c461b
+Requires: Rcpp, stringr
 
 Package: magrittr
 Source: CRAN
